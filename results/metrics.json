@@ -1,0 +1,20 @@
+{
+  "prior_source": "synthetic Egg-type Gaussian fields (100 prior members)",
+  "ensemble_size": 100,
+  "esmda_iterations": 4,
+  "alphas": [
+    9.333,
+    7.0,
+    4.0,
+    2.0
+  ],
+  "history_days": 1800.0,
+  "total_days": 3600.0,
+  "n_observations": 960,
+  "mean_normalised_misfit_prior": 242.1917351741401,
+  "mean_normalised_misfit_posterior": 1.3593248304568106,
+  "lnk_rmse_prior_mean_vs_truth": 0.992675039860626,
+  "lnk_rmse_posterior_mean_vs_truth": 0.7147728522671567,
+  "field_oil_rate_forecast_rmse_prior_m3d": 3.868245161012825,
+  "field_oil_rate_forecast_rmse_posterior_m3d": 1.8503011130241092
+}
